@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="label_Entrada">Entrada</string>
+    <string name="label_Resultdo">Resultado</string>
+
+
+    <string name="Label_AC">AC</string>
+    <string name="Label_DEL">DEl</string>
+    <string name="Label_coman3">+</string>
+    <string name="Label_coman4">-</string>
+    <string name="Label_coman5">*</string>
+    <string name="Label_coman6">/</string>
+    <string name="Label_coman7">=</string>
+
+
+
+    <string name="label_numero1">1</string>
+    <string name="label_numero2">2</string>
+    <string name="label_numero3">3</string>
+    <string name="label_numero4">4</string>
+    <string name="label_numero5">5</string>
+    <string name="label_numero6">6</string>
+    <string name="label_numero7">7</string>
+    <string name="label_numero8">8</string>
+    <string name="label_numero9">9</string>
+    <string name="label_numero10">0</string>
+
+
+
+
+
+
+
+
+</resources>
